@@ -1,7 +1,14 @@
 # Yet Another React Starter Kit (YARSK)
 
-## Why is different
-It includes:
+## Installation
+
+```bash
+$ npm i
+$ npm start
+```
+
+## Why is different?
+It includes only the aboslute necessary, no fancy stuff just the bare minimun to get you rolling.
 
 * React
 * Redux
@@ -9,12 +16,3 @@ It includes:
 * DockMonitor
 * Webpack
 * ...
-
-Todo
-
-## Installation
-
-```bash
-$ npm i
-$ npm start
-```
